@@ -1,0 +1,12 @@
+C:\Users\Pc\Desktop\2. Sınıf\DataStructures\Proje 3\Proje 3A\Proje 3A\bin\Debug\Proje 3A.exe.config
+C:\Users\Pc\Desktop\2. Sınıf\DataStructures\Proje 3\Proje 3A\Proje 3A\bin\Debug\Proje 3A.exe
+C:\Users\Pc\Desktop\2. Sınıf\DataStructures\Proje 3\Proje 3A\Proje 3A\bin\Debug\Proje 3A.pdb
+C:\Users\Pc\Desktop\2. Sınıf\DataStructures\Proje 3\Proje 3A\Proje 3A\obj\Debug\Proje 3A.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\2. Sınıf\DataStructures\Proje 3\Proje 3A\Proje 3A\obj\Debug\Proje 3A.exe
+C:\Users\Pc\Desktop\2. Sınıf\DataStructures\Proje 3\Proje 3A\Proje 3A\obj\Debug\Proje 3A.pdb
+C:\Users\Hp\Desktop\S\2. Sınıf\DataStructures\Proje 3\Proje 3A\Proje 3A\bin\Debug\Proje 3A.exe.config
+C:\Users\Hp\Desktop\S\2. Sınıf\DataStructures\Proje 3\Proje 3A\Proje 3A\bin\Debug\Proje 3A.exe
+C:\Users\Hp\Desktop\S\2. Sınıf\DataStructures\Proje 3\Proje 3A\Proje 3A\bin\Debug\Proje 3A.pdb
+C:\Users\Hp\Desktop\S\2. Sınıf\DataStructures\Proje 3\Proje 3A\Proje 3A\obj\Debug\Proje 3A.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\S\2. Sınıf\DataStructures\Proje 3\Proje 3A\Proje 3A\obj\Debug\Proje 3A.exe
+C:\Users\Hp\Desktop\S\2. Sınıf\DataStructures\Proje 3\Proje 3A\Proje 3A\obj\Debug\Proje 3A.pdb
